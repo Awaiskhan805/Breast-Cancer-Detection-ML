@@ -1,0 +1,5 @@
+model,cv_accuracy,accuracy,precision,recall,f1,roc_auc,tp,fn,fp,tn
+SVM (RBF),97.14,97.37,100.0,92.86,96.3,0.9947,39,3,0,72
+Random Forest,96.04,97.37,100.0,92.86,96.3,0.9944,39,3,0,72
+Logistic Regression,97.36,96.49,97.5,92.86,95.12,0.996,39,3,1,71
+XGBoost,97.14,96.49,100.0,90.48,95.0,0.9937,38,4,0,72
